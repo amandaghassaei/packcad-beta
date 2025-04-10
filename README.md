@@ -1,9 +1,13 @@
 # PackCAD
 
-PackCAD is a parametric 3D modeling tool for designing folded geometry, based on the design principles of origami.  We are initially targeting design workflows in the packaging industry, but hope that this tool will be broadly useful in other areas of manufacturing and design.
+PackCAD is a parametric 3D tool for designing foldable structures, inspired by origami. While we're initially focused on workflows in the packaging industry, we hope PackCAD will be useful for a wide range of manufacturing and design applications.
 
-PackCAD is currently in a private beta, feel free to sign up at [packcad.com](https://packcad.com).
+We're currently in private beta — feel free to [sign up at packcad.com](https://packcad.com).
 
-We will be using this repository to track issues and development of the PackCAD project.  Please feel free to open [Issues](https://github.com/amandaghassaei/packcad-beta/issues) for bugs.  You can also request new features, ask questions, or share things you're working on in [Discussions](https://github.com/amandaghassaei/packcad-beta/discussions).
+This repository is where we track issues and ongoing development of PackCAD.
+You're welcome to:
 
-All info posted to this GitHub repository is publicly available, if you have sensitive information or files that you'd like to share with PackCAD developers, please email support@formfinding.studio instead.
+- Report bugs via [Issues](https://github.com/amandaghassaei/packcad-beta/issues)
+- Request new features, ask questions, or share your projects in [Discussions](https://github.com/amandaghassaei/packcad-beta/discussions)
+
+Please note: all content shared here is publicly visible. If you need to share sensitive files or information, email us directly at support@formfinding.studio.
