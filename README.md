@@ -12,4 +12,6 @@ You're welcome to:
 - Report bugs via [Issues](https://github.com/amandaghassaei/packcad-beta/issues)
 - Request new features, ask questions, or share your projects in [Discussions](https://github.com/amandaghassaei/packcad-beta/discussions)
 
+Find the most up-to-date PackCAD documentation [here](https://github.com/amandaghassaei/packcad-beta/discussions/3).
+
 Please note: all content shared here is publicly visible. If you need to share sensitive files or information, email us directly at support@formfinding.studio.
